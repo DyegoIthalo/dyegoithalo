@@ -1,6 +1,5 @@
 # 💫 About Me:
-Meu nome é Dyego Ithalo<br>Tenho 26 anos<br>Cursando Análise e desenvolvimento de sistemas<br>Estou me aventurando no front-end<br>
-
+Tenho 26 anos<br>Cursando Análise e desenvolvimento de sistemas<br>Estou me aventurando no front-end<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dyegow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dyego-silva-264b72140) 
