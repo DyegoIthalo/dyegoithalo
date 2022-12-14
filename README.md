@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meu nome é Dyego Ithalo<br>Tenho 26 anos<br>Cursando Análise e desenvolvimento de sistemas<br>Estou me aventurando no fron-end<br>
+Meu nome é Dyego Ithalo<br>Tenho 26 anos<br>Cursando Análise e desenvolvimento de sistemas<br>Estou me aventurando no front-end<br>
 
 
 ## 🌐 Socials:
