@@ -1,15 +1,24 @@
 
-## About Me:
-Tenho 26 anos :sparkles:<br>Cursando Análise e desenvolvimento de sistemas :computer:<br>Estou me aventurando no front-end :running:<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=836FFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Dyego+Ithalo;Tenho+26+anos;Cursando+análise+e+desenvolvimento+de+sistemas+:%29)](https://git.io/typing-svg)
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dyegow/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyegoithalo/) <br>
+<div align="center"> 
+<a href="https://instagram.com/dyegow" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/dyegoithalo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
+  
 
-
-## Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)<br>
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DyegoIthalo&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DyegoIthalo&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=CDC5FF&text_color=9E9E9E&bg_color=0d1117" alt="Dyego Ithalo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyegoIthalo&layout=compact&hide_border=true&title_color=ffffff&text_color=9E9E9E&bg_color=0d1117" />
+</div>
+  
+  
+ ## Tech Stack:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=120&section=footer"/>
