@@ -19,5 +19,10 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,xd" />
 </div>
+  
+## Learning: 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react" />
+</div> 
        
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=120&section=footer"/>
